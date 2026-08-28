@@ -1,0 +1,4 @@
+interface:
+  display_name: "PVC gel Memory"
+  short_description: "PVC gel actuator research memory"
+  default_prompt: "Use this skill when I mention PVC gel actuators, artificial muscles, or PVC-driven soft robots."

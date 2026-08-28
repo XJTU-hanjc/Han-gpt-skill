@@ -1,0 +1,4 @@
+interface:
+  display_name: "Visio Experimental Schematic Design"
+  short_description: "Grid-aligned Visio experimental schematic design rules"
+  default_prompt: "Use this skill when designing or revising Visio experimental schematic diagrams."

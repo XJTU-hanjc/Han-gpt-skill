@@ -1,0 +1,4 @@
+interface:
+  display_name: "Academic Literature Search"
+  short_description: "Find and format verified academic literature"
+  default_prompt: "Use $literature-search to find papers on my topic and format each source with a copyable link."

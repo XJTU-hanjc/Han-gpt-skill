@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Image Vision"
+  short_description: "Low-token scientific image and code screenshot inspection."
+  default_prompt: "Use $research-image-vision to inspect scientific images or code screenshots with local, low-token preprocessing."

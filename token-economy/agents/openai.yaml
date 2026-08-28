@@ -1,0 +1,4 @@
+interface:
+  display_name: "Token Economy"
+  short_description: "Low-token workflows for research and code tasks."
+  default_prompt: "Use token-economy to minimize token usage while preserving key evidence and decisions."
