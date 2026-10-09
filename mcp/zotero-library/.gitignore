@@ -1,0 +1,15 @@
+.venv/
+.tmp/
+data/
+__pycache__/
+.pytest_cache/
+*.pyc
+test-report.json
+
+# Local credentials and private literature data
+knowledge/reading-notes.json
+.env
+.env.*
+*.sqlite3
+*.sqlite3-*
+*.pdf
