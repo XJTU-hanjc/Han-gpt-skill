@@ -1,0 +1,67 @@
+# Reference image visual style. Axis limits and tick values are intentionally unset.
+figure.figsize: 6, 4
+figure.dpi: 150
+figure.facecolor: white
+figure.subplot.left: 0.20
+figure.subplot.right: 0.97
+figure.subplot.bottom: 0.20
+figure.subplot.top: 0.97
+figure.titlesize: 19.2
+axes.facecolor: white
+axes.edgecolor: black
+axes.linewidth: 1.4
+axes.grid: False
+axes.spines.top: True
+axes.spines.right: True
+axes.spines.bottom: True
+axes.spines.left: True
+axes.labelsize: 20
+axes.titlesize: 19.2
+axes.labelpad: 4
+axes.xmargin: 0.03
+axes.ymargin: 0.08
+axes.autolimit_mode: data
+axes.formatter.useoffset: False
+font.family: Times New Roman, SimSun, DejaVu Serif
+font.serif: Times New Roman, SimSun, Noto Serif CJK SC, DejaVu Serif
+font.size: 16
+axes.unicode_minus: False
+lines.color: 0.4
+axes.prop_cycle: cycler('color', ['0.4', '0.15', '0.6', '0.3'])
+lines.linewidth: 0.55
+lines.linestyle: -
+lines.marker: None
+xtick.direction: in
+ytick.direction: in
+xtick.top: False
+ytick.right: False
+xtick.labelsize: 16
+ytick.labelsize: 16
+xtick.major.size: 3
+ytick.major.size: 3
+xtick.major.width: 1.2
+ytick.major.width: 1.2
+xtick.minor.size: 1.5
+ytick.minor.size: 1.5
+xtick.minor.width: 1.0
+ytick.minor.width: 1.0
+xtick.major.pad: 3
+ytick.major.pad: 3
+legend.loc: upper right
+legend.frameon: True
+legend.fancybox: False
+legend.shadow: False
+legend.framealpha: 1
+legend.facecolor: white
+legend.edgecolor: black
+legend.fontsize: 16
+legend.title_fontsize: 16
+legend.borderpad: 0.15
+legend.borderaxespad: 0.3
+legend.handlelength: 2.5
+legend.handletextpad: 0.3
+savefig.dpi: 600
+savefig.facecolor: white
+savefig.transparent: False
+pdf.fonttype: 42
+ps.fonttype: 42
