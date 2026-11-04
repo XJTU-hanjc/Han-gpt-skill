@@ -5,6 +5,10 @@ The chatgpt skill for multiple pc to synchronization
 
 [`lab-plot-style`](lab-plot-style/) 用于绘制或统一实验曲线的版式，适合时域波形、幅频谱、点线图和多组对比图。坐标范围随数据调整，默认使用白底黑框、向内刻度，导出 600 dpi PNG 和矢量 PDF。
 
+![合成角度波形，展示四边黑框、向内刻度和右上角图例](docs/images/lab-plot-style-preview.png)
+
+*图中用合成数据展示角度随时间变化的绘图样式。*
+
 在另一台电脑上，将整个 `lab-plot-style/` 目录复制到个人 skills 目录（默认 `~/.codex/skills/`）。安装后，可以这样调用：
 
 > 用 `$lab-plot-style` 把三组实验数据画在同一张图里，用三种颜色区分，保留原始数据点和单位。
