@@ -1,9 +1,15 @@
 # Han-gpt-skill
 The chatgpt skill for multiple pc to synchronization
 
+## 实验项目文件管理
+
+[`experiment-file-management`](experiment-file-management/) 按批次归档原始采集，分开放置处理数据、脚本和图件，并记录用户补充、修改要求及结果版本。项目根目录的 `AGENTS.md` 和 `README.md` 随项目迁移，便于在新位置继续处理。
+
+将整个 `experiment-file-management/` 目录复制到个人 skills 目录。安装后可以说「用 `$experiment-file-management` 整理这次实验数据」。
+
 ## 科研绘图：lab-plot-style
 
-[`lab-plot-style`](lab-plot-style/) 用于绘制或统一实验曲线的版式，适合时域波形、幅频谱、点线图和多组对比图。坐标范围随数据调整，默认使用白底黑框、向内刻度，导出 600 dpi PNG 和矢量 PDF。
+[`lab-plot-style`](lab-plot-style/) 用于绘制或统一实验曲线的版式，适合时域波形、幅频谱、点线图和多组对比图。坐标范围随数据调整，默认使用白底黑框、向内刻度，默认导出 600 dpi PNG，按需导出矢量 PDF。
 
 ![合成角度波形，展示四边黑框、向内刻度和右上角图例](docs/images/lab-plot-style-preview.png)
 
